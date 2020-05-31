@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 
-This site contains notes from my readings for my Coding 201 class at Codefellows in Seattle, Wa.
-
+This site contains notes from my readings for my Coding 201 class at **Codefellows** in Seattle, Wa.
+:woman_technologist:
 ## Table of Contents
 1. [Introductory HTML and JavaScript](intro-html-js.md)
 2. [HTML Text, CSS Introduction and Basic JavaScript Instructions]
