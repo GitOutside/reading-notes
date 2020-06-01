@@ -3,7 +3,7 @@
 This site contains notes from my readings for my Coding 201 class at **Codefellows** in Seattle, Wa.
 :woman_technologist:
 ## Table of Contents
-1. [Introductory HTML and JavaScript](intro-html-js.md)
+1. [Introductory HTML and JavaScript](class-01.md)
 2. [HTML Text, CSS Introduction and Basic JavaScript Instructions]
 3. [HTML Lists, CSS Boxes, JS Control Flow]
 4. [HTML Links, CSS Layout, JS Functions]
