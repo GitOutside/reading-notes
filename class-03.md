@@ -110,3 +110,18 @@ everything can be treated as true or false
                  - var with no value assigned
 
 Most everything else is truthy or **1**
+
+## Loops
+loops check a condition
+if true- code executes
+if false-code exited
+**for** loop to run code a specific number of times. Condition is usually a counter
+- inititalization
+  - create a var and set value
+- condition
+  - specifies loop end
+- counter
+  
+
+**while** loop to run code for unspecified time
+**do while** loop like while **BUT** will always run code once, even if false,
