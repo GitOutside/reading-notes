@@ -90,4 +90,23 @@ Each box has 3 properties that can be adjusted:
 
   **border-radius** for rounded corners. Can also do each side separately. Can use shorthand
 
-  
+  ## Js Decisions and Loops
+  **if else** checks condition. If **TRUE** first code executed. If **FALSE** second code executed. 
+  - statements inside **if else** need semi-colon, but not after curly brace
+
+  **switch** is assigned a value. Inside curly braces are **cases** that list possible values and the code that needs to run if matched. Each **case** is followed by **break** that, when run, tells computer to end **switch** and move to next code.
+  - has deafult setting
+
+JavaScript uses **weak typing** which means it can change data types to complete an operation. This is **type coercion**.
+To avoid unexpected values, always use === and !== rather than == and !=
+
+## Truthy and Falsy
+caused by type coercion
+everything can be treated as true or false
+**Falsy** values - false or **0**
+                 - 0
+                 - ''
+                 - NaN
+                 - var with no value assigned
+
+Most everything else is truthy or **1**
