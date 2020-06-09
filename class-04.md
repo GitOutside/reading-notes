@@ -63,6 +63,13 @@ Each HTML element is in its own box
 
   
 
+## Functions
 
+Functions store the code to run a specific task inside {}
+Name the function so it can be called upon later to run. If the function does not have a name, it will be run as soon as the browser sees it
+Parameters are used like variables in the function
 
+If a function has parameters, you have to specify them when you call it in (). (arguments)
+**arguments** can be (values, etc) or (canBeVariables, etc)
 
+Functions can return a single function, or an array of values

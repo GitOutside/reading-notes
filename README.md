@@ -9,7 +9,7 @@ This site contains notes from my readings for my Coding 201 class at **Codefello
 4. [HTML Links, CSS Layout, JS Functions](class-04.md)
 5. [HTML Images, CSS Color & Text](class-05.md)
 6. [JS Object Literals, The DOM](class-06.md)
-7. [HTML Tables and JS Construction Functions]
+7. [HTML Tables and JS Construction Functions](class-07.md)
 8. [Forms and Events]
 9. [More CSS Layout]
 10. [JS Debugging]
