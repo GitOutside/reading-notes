@@ -11,7 +11,7 @@ This site contains notes from my readings for my Coding 201 class at **Codefello
 6. [JS Object Literals, The DOM](class-06.md)
 7. [HTML Tables and JS Construction Functions](class-07.md)
 8. [Forms and Events](class-08.md)
-9. [More CSS Layout]
+9. [More CSS Layout](class-09.md)
 10. [JS Debugging]
 11. [Assorted Topics]
 12. [Docs for the HTML ``<canvas>`` Element and Chart.js]
