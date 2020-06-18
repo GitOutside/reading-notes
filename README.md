@@ -16,5 +16,5 @@ This site contains notes from my readings for my Coding 201 class at **Codefello
 11. [Assorted Topics](class-11.md)
 12. [Docs for the HTML ``<canvas>`` Element and Chart.js](class-12.md)
 13. [Local Storage](class-13.md)
-14. [CSS Transformations, Transitions, and Animations]
+14. [CSS Transformations, Transitions, and Animations](class-14.md)
 15. [What Google Learned About Teams]
